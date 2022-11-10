@@ -1,7 +1,7 @@
 console.log(
     fn("hello").fn("world").fn("!!!").fn('It').fn('is').fn('working').fn('!!!').fn()
 )
-//Will print: hello world !!!
+//Will print: hello world !!! It is working !!!
 console.log(
     fn("This").fn("is").fn("just").fn("a").fn("test").fn()
 )
